@@ -65,6 +65,11 @@ Batch: 1
 4.WSL (Ubuntu) – Linux environment on Windows
 **ouput:**
 ![terminal ouput](https://github.com/user-attachments/assets/d992593d-e889-445e-a645-ca14fa463182)
+![terminal ouput](https://github.com/user-attachments/assets/13734a8f-1578-4957-ad5a-daa4e992f5a2)
+![terminal ouput](https://github.com/user-attachments/assets/7b38ffa6-6cb4-4300-8308-30d2bfac7f99)
+![terminal output](https://github.com/user-attachments/assets/c24eda83-54ae-4b7b-8149-40477e84f6f3)
+
+
 
 
 
