@@ -18,7 +18,7 @@ The project is organized into four main folders, each representing a challenge:
   - Normalize / standardize data  
   - Feature engineering  
 - **Tools:** Apache Flink or Spark  
-- [Explore this challenge](./task1-data preprocessing)
+- [Explore this challenge](./task1-data_preprocessing)
 
 ### 2️⃣ Real-Time Data Streaming Challenge 
 - **Folder:** `real_time_streaming`  
@@ -28,8 +28,7 @@ The project is organized into four main folders, each representing a challenge:
   - Real-time data processing (rolling averages, aggregations)  
   - Apply basic ML models for real-time analytics  
 - **Tools:** Apache Kafka, Flink/Spark, Python, Scikit-learn  
-- [Explore this challenge](./task2_Real-Time Data Streaming Challenge)
-
+- [Explore this challenge](./task2_Real_Time_SData_treaming)
 ### 3️⃣ Incremental Data Processing Challenge (25%)
 - **Folder:** `incremental_processing`  
 - **Objective:** Implement Incremental Data Processing using Change Data Capture (CDC).  
