@@ -28,7 +28,7 @@ The project is organized into four main folders, each representing a challenge:
   - Real-time data processing (rolling averages, aggregations)  
   - Apply basic ML models for real-time analytics  
 - **Tools:** Apache Kafka, Flink/Spark, Python, Scikit-learn  
-- [Explore this challenge](./task2_Real-Time_Data_Streaming)
+- [Explore this challenge](./task2_Real-Time_Data_Streaming_Challenge)
 ### 3️⃣ Incremental Data Processing Challenge (25%)
 - **Folder:** `incremental_processing`  
 - **Objective:** Implement Incremental Data Processing using Change Data Capture (CDC).  
