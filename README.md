@@ -18,7 +18,7 @@ The project is organized into four main folders, each representing a challenge:
   - Normalize / standardize data  
   - Feature engineering  
 - **Tools:** Apache Flink or Spark  
-- [Explore this challenge](./task1_)
+- [Explore this challenge](./task1_Data Preprocessing)
 
 ### 2️⃣ Real-Time Data Streaming Challenge (35%)
 - **Folder:** `real_time_streaming`  
@@ -28,7 +28,7 @@ The project is organized into four main folders, each representing a challenge:
   - Real-time data processing (rolling averages, aggregations)  
   - Apply basic ML models for real-time analytics  
 - **Tools:** Apache Kafka, Flink/Spark, Python, Scikit-learn  
-- [Explore this challenge](./real_time_streaming)
+- [Explore this challenge](./task2_ Real-Time Data Streaming Challenge)
 
 ### 3️⃣ Incremental Data Processing Challenge (25%)
 - **Folder:** `incremental_processing`  
@@ -37,7 +37,7 @@ The project is organized into four main folders, each representing a challenge:
   - Capture database changes in real-time using CDC  
   - Incrementally update ML models or data structures  
 - **Tools:** Apache Kafka, Flink, Python, CDC tools  
-- [Explore this challenge](./incremental_processing)
+- [Explore this challenge](./task3_incremental_processing)
 
 ### 4️⃣ In-Memory Data Processing Challenge (10%)
 - **Folder:** `in_memory_processing`  
@@ -47,7 +47,7 @@ The project is organized into four main folders, each representing a challenge:
   - Optimize processing time using in-memory databases  
   - Demonstrate performance improvement  
 - **Tools:** Apache Spark, SAP HANA  
-- [Explore this challenge](./in_memory_processing)
+- [Explore this challenge](./task4_in_memory_processing)
 
 ---
 
