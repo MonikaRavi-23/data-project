@@ -1,38 +1,73 @@
-##🧠 Data Preprocessing Challenge
+🧠 Data Preprocessing Challenge
 
-This project demonstrates data preprocessing using Apache Spark (PySpark).
-It handles missing values, duplicates, data type inconsistencies, normalization, and feature engineering.
+A hands-on PySpark project showcasing robust data preprocessing techniques, including handling missing values, removing duplicates, correcting data types, normalization, and feature engineering. Perfect for data enthusiasts who want to streamline their datasets for analytics or machine learning!
 
-**🚀 Features**
-🧩 Handle missing values (numeric + categorical)
-🔢 Fix inconsistent data types
-🧹 Remove duplicates
-⚖️ Normalize/Standardize numerical features
-🧠 Create engineered features
+🚀 Features
 
-**🧰 Tools & Technologies**
-Apache Spark (PySpark)
-Python 3.8+
-Parquet (for optimized output)
+🧩 Handle Missing Values
+Numeric → Fill with mean
+Categorical → Fill with “Unknown”
 
-****📦 Setup Instructions**
+🔢 Fix Inconsistent Data Types
+Convert string-numeric values to proper DoubleType
+
+🧹 Remove Duplicates
+Drop identical rows for cleaner datasets
+
+⚖️ Normalize / Standardize Numerical Features
+StandardScaler (zero mean, unit variance)
+
+🧠 Feature Engineering
+Create new meaningful features, e.g., total_amount = price × quantity
+
+🧰 Tools & Technologies
+Apache Spark (PySpark) – for scalable data processing
+
+Python 3.8+ – flexible scripting
+
+Parquet – efficient columnar storage format
+
+📦 Setup Instructions
+
 1️⃣ Clone Repository
 cd data-preprocessing-challenge
 
-2️⃣ Create Virtual Environment python -m venv venv venv\Scripts\activate # Windows
 
-3️⃣ Install Dependencies pip install -r requirements.txt
+2️⃣ Create Virtual Environment
 
-4️⃣ Run the Preprocessing Script Make sure your raw data is inside the data/ folder.
+python -m venv venv
+# Windows
+venv\Scripts\activate
 
-cd src python preprocess.py
-data/processed_dataset.parquet
+3️⃣ Install Dependencies
+pip install -r requirements.txt
 
-📂 Input/Output Type Format Path Input CSV data/raw_dataset.csv Output Parquet data/processed_dataset.parquet
 
-⚙️ Example Operations Task Description Missing values Numeric → Mean fill, Categorical → “Unknown” Data types Convert string-numeric to DoubleType Duplicates Drop identical rows Normalization StandardScaler (zero mean, unit variance) Feature Engineering e.g., total_amount = price × quantity
+4️⃣ Run the Preprocessing Script
+Make sure your raw data is inside the data/ folder.
 
-🏁 Output Example price quantity total_amount scaled_features 100.0 3 300.0 [0.12, -0.43, ...]
+cd src
+python preprocess.py ../data/processed_dataset.parquet
+
+📂 Input / Output
+Type	Format	Path
+Input	CSV	data/raw_dataset.csv
+Output	Parquet	data/processed_dataset.parquet
+
+⚙️ Example Operations
+Task	Description
+Missing Values	Numeric → Mean fill, Categorical → "Unknown"
+Data Types	Convert string-numeric columns to DoubleType
+Duplicates	Drop identical rows
+Normalization	StandardScaler: zero mean, unit variance
+Feature Engineering	e.g., total_amount = price × quantity
+
+Sample Output
+price	quantity	total_amount	scaled_features
+100.0	3	300.0	[0.12, -0.43, ...]
+
+
+
 output : <img width="1916" height="896" alt="image" src="https://github.com/user-attachments/assets/28bc689a-e66c-4a37-b633-6d21ef1fcf2a" />
 <img width="1865" height="935" alt="image" src="https://github.com/user-attachments/assets/a2c151ec-3bc7-4e93-9306-aa5e0bf6ce92" />
 <img width="1877" height="1033" alt="image" src="https://github.com/user-attachments/assets/88408821-03ff-49d1-8f48-6607e1041ccc" />
