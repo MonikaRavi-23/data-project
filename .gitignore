@@ -2,3 +2,7 @@ flink_env/
 *.pyc
 __pycache__/
 *.log
+streaming_env/
+__pycache__/
+*.log
+*.pyc
