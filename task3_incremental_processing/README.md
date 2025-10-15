@@ -62,3 +62,7 @@ python3 cdc_consumer.py
 🚀 Kafka Topic receives and streams events in real time
 ⚙️ Flink / Spark Streaming consumes events and applies updates
 🧠 Python Model or Aggregation updates incrementally without full retraining
+**ouput:**
+![terminal ouptut](https://github.com/user-attachments/assets/7cd72598-d8c9-4548-8b0a-8efbaf5fc53a)
+![terminal output](https://github.com/user-attachments/assets/94a5d6f5-5b87-49be-9467-9d9ccc1237f9)
+
