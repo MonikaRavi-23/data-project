@@ -33,8 +33,6 @@ source streaming_env/bin/activate
 pip install -r requirements.txt
 
 3️⃣ Start Zookeeper and Kafka
-
-# In separate terminals
 zookeeper-server-start.sh config/zookeeper.properties
 kafka-server-start.sh config/server.properties
 
