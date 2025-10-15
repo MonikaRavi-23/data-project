@@ -44,3 +44,8 @@ Concept	Description
 🧱 DataFrame Operations	Use schema-based queries and column manipulations for analytics.
 📊 Performance Optimization	Compare execution time improvements with in-memory caching.
 🧠 Real-Time Analytics	Demonstrate near-instant query execution and aggregation.
+**output:**
+![terminal output](https://github.com/user-attachments/assets/7e91f420-acf4-4781-b6fa-493b80e52b5a)
+![terminal output](https://github.com/user-attachments/assets/47cef239-e9c3-4667-8766-4f68469c59cc)
+
+
