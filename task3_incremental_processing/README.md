@@ -1,4 +1,4 @@
-# 🔁 Incremental Data Processing Challenge (25%)
+# 🔁 Incremental Data Processing Challenge 
 
 > ⚡ Real-time model updates and data synchronization using **Change Data Capture (CDC)**, **Apache Kafka**, **Flink**, and **Python**.
 
