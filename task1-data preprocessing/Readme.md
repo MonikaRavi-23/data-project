@@ -55,3 +55,12 @@ Feature Engineering	e.g., total_amount = price × quantity
 🏁 Output Example
 price	quantity	total_amount	scaled_features
 100.0	3	300.0	[0.12, -0.43, ...]
+**output :**
+<img width="1888" height="833" alt="image" src="https://github.com/user-attachments/assets/f3a80307-99e2-4db1-aec4-b3dc79759b59" />
+<img width="1663" height="864" alt="image" src="https://github.com/user-attachments/assets/94c8424c-55fa-4f39-9f62-f6f3fad6996c" />
+<img width="1882" height="896" alt="image" src="https://github.com/user-attachments/assets/4eb6ca92-cde5-45c2-92e6-2800aa57d5f1" />
+<img width="1375" height="647" alt="image" src="https://github.com/user-attachments/assets/111015cb-49c4-4037-8528-b2ab917c20cf" />
+
+
+
+
