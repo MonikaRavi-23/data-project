@@ -63,5 +63,8 @@ Batch: 1
 2.Apache Spark – Structured Streaming engine
 3.Python (PySpark) – Scripting and analysis
 4.WSL (Ubuntu) – Linux environment on Windows
+**ouput:**
+![terminal ouput](https://github.com/user-attachments/assets/d992593d-e889-445e-a645-ca14fa463182)
+
 
 
