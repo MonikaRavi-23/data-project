@@ -27,7 +27,7 @@ Python 3.8+ – flexible scripting
 
 Parquet – efficient columnar storage format
 
-📦 Setup Instructions
+# 📦 Setup Instructions
 
 1️⃣ Clone Repository
 cd data-preprocessing-challenge
@@ -36,7 +36,6 @@ cd data-preprocessing-challenge
 2️⃣ Create Virtual Environment
 
 python -m venv venv
-# Windows
 venv\Scripts\activate
 
 3️⃣ Install Dependencies
