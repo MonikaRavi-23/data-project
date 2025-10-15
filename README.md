@@ -8,7 +8,7 @@ This repository contains solutions for four hands-on challenges in modern data e
 
 The project is organized into four main folders, each representing a challenge:
 
-### 1️⃣ Data Preprocessing Challenge (30%)
+### 1️⃣ Data Preprocessing Challenge 
 - **Folder:** `data_preprocessing`  
 - **Objective:** Clean, preprocess, and enhance raw datasets.
 - **Key Tasks:**  
@@ -18,9 +18,9 @@ The project is organized into four main folders, each representing a challenge:
   - Normalize / standardize data  
   - Feature engineering  
 - **Tools:** Apache Flink or Spark  
-- [Explore this challenge](./task1-Data Preprocessing)
+- [Explore this challenge](./task1-data preprocessing)
 
-### 2️⃣ Real-Time Data Streaming Challenge (35%)
+### 2️⃣ Real-Time Data Streaming Challenge 
 - **Folder:** `real_time_streaming`  
 - **Objective:** Build a Producer-Consumer system for real-time streaming data.
 - **Key Tasks:**  
@@ -28,7 +28,7 @@ The project is organized into four main folders, each representing a challenge:
   - Real-time data processing (rolling averages, aggregations)  
   - Apply basic ML models for real-time analytics  
 - **Tools:** Apache Kafka, Flink/Spark, Python, Scikit-learn  
-- [Explore this challenge](./task2-Real-Time Data Streaming Challenge)
+- [Explore this challenge](./task2_Real-Time Data Streaming Challenge)
 
 ### 3️⃣ Incremental Data Processing Challenge (25%)
 - **Folder:** `incremental_processing`  
@@ -39,7 +39,7 @@ The project is organized into four main folders, each representing a challenge:
 - **Tools:** Apache Kafka, Flink, Python, CDC tools  
 - [Explore this challenge](./task3_incremental_processing)
 
-### 4️⃣ In-Memory Data Processing Challenge (10%)
+### 4️⃣ In-Memory Data Processing Challenge 
 - **Folder:** `in_memory_processing`  
 - **Objective:** Perform high-speed analytics using in-memory processing.  
 - **Key Tasks:**  
