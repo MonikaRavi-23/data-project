@@ -21,8 +21,7 @@ It handles missing values, duplicates, data type inconsistencies, normalization,
 ## 📦 Setup Instructions
 
 ### 1️⃣ Clone Repository
-```bash
-git clone https://github.com/yourusername/data-preprocessing-challenge.git
+
 cd data-preprocessing-challenge
 
 2️⃣ Create Virtual Environment
