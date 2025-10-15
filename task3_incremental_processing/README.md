@@ -40,7 +40,6 @@ Copy code
 
 1. **Clone the repository**
 
-git clone https://github.com/MonikaRavi-23/data-project.git
 cd data-project
 Create & activate Python virtual environment
 
